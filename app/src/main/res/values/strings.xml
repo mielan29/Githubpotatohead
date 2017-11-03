@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MilanScholten_Pset1</string>
+    <string name="action_settings">Settings</string>
+    <string name="potatobody">Potatobody</string>
+    <string name="body">body</string>
+    <string name="CBbody" />
+    <string name="arms">arms</string>
+    <string name="ears">ears</string>
+    <string name="eyebrows">eyebrows</string>
+    <string name="eyes">eyes</string>
+    <string name="glasses">glasses</string>
+    <string name="hat">hat</string>
+    <string name="mouth">mouth</string>
+    <string name="mustache">mustache</string>
+    <string name="nose">nose</string>
+    <string name="shoes">shoes</string>
+    <string name="potatomouth">potatomouth</string>
+    <string name="potatonose">potatonose</string>
+    <string name="potatoeyebrow">potatoeyebrow</string>
+    <string name="potatoeyes">potatoeyes</string>
+    <string name="potatoshoes">potatoshoes</string>
+    <string name="potatohat">potatohat</string>
+    <string name="potatomustache">potatomustache</string>
+    <string name="potatoarms">potatoarms</string>
+    <string name="potatoglasses">potatoglasses</string>
+    <string name="potatoears">potatoears</string>
+</resources>
